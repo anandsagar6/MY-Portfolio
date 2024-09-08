@@ -2038,7 +2038,7 @@
     }
     
     .service-item {
-      border: 1px solid yellow; /* Add a thin yellow border */
+      border: 2px solid yellow; /* Add a thin yellow border */
       border-radius: 8px; /* Rounded corners for better aesthetics */
       padding: 15px; /* Add some padding for spacing */
       margin: 10px 0; /* Add vertical margin for spacing between items */
